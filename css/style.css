@@ -1,5 +1,19 @@
 .content {
-    background-image: url(/img/cristo.jpg);
-    background-repeat: no-repeat;
-    width: 100%;
+    width: 80%;
+    margin-left: 2%;
+    text-align: justify;
+}
+
+.content p {
+    font-size: 20px;
+}
+
+figcaption {
+    font-size: 15px;
+    font-weight: 300;
+    width: fit-content;
+    margin: auto;
+    color: #606060;
+    margin-top: 10px;
+    margin-left: 5%;
 }
