@@ -1,7 +1,7 @@
 .content {
-    color: #fff;
+    color: black;
     text-align: justify;
-    background-image: url(/img/img-fundo.jpg);
+
 }
 
 .content p {
@@ -21,7 +21,7 @@ figcaption {
     font-weight: 300;
     width: fit-content;
     margin: auto;
-    color: #fff;
+    color: black;
     margin-top: 10px;
     margin-left: 5%;
 }
